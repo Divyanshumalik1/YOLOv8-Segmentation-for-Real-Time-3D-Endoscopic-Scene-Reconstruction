@@ -10,7 +10,7 @@ This section explains the **YOLOv8 segmentation** process used in the **DynamicS
 
 Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates into the 3D reconstruction process.
 
-![Pipeline Diagram](pipeline_diagram.png)
+![Pipeline Diagram](pipelinediagram.png)
 
 1. **Input Video Frame** 🎥 → Raw surgical video input.
 2. **YOLOv8 Inference** ⚡ → Detects and segments relevant surgical objects.
