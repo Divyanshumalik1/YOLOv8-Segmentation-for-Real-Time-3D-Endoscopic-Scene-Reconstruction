@@ -53,29 +53,29 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 #### 1️⃣ **Colored Segmentation Output** 🎨
 - Highlights surgical instruments in distinct colors according to class labels.
 
-**Before Segmentation:**
-![Colored Before](colored_before.gif)
+**Segmentation Example:**
+![Colored Before](coloured mask.gif)
 
-**After Segmentation:**
-![Colored After](colored_after.gif)
+**Segmentation Example:**
+![Colored After](coloured mask (2).gif)
 
 #### 2️⃣ **Colored Transparent Segmentation** 🌀
 - Overlays segmentation on the original frame while keeping transparency.
 
-**Before Segmentation:**
-![Transparent Before](transparent_before.gif)
+**Segmentation Example:**
+![Transparent Before](transparent mask.gif)
 
-**After Segmentation:**
-![Transparent After](transparent_after.gif)
+**Segmentation Example:**
+![Transparent After](transparent mask2.gif)
 
 #### 3️⃣ **Binary Segmentation Output** ⚫⚪
 - Converts instruments to white and background to black for clarity.
 
-**Before Segmentation:**
-![Binary Before](binary_before.gif)
+**Segmentation Example:**
+![Binary Before](binary_mask 2.gif)
 
-**After Segmentation:**
-![Binary After](binary_after.gif)
+**Segmentation Example:**
+![Binary After](binary mask 1.gif)
 
 ---
 
