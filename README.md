@@ -56,8 +56,8 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 <div style="text-align: center;">
   <table>
     <tr>
-      <td><img src="colouredmask1.gif" width="50%" /></td>
-      <td><img src="colouredmask2.gif" width="50%" /></td>
+      <td><img src="colouredmask1.gif" width="75%" /></td>
+      <td><img src="colouredmask2.gif" width="75%" /></td>
     </tr>
   </table>
 </div>
@@ -69,8 +69,8 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 <div style="text-align: center;">
   <table>
     <tr>
-      <td><img src="transparentmask1.gif" width="50%" /></td>
-      <td><img src="transparentmask2.gif" width="50%" /></td>
+      <td><img src="transparentmask1.gif" width="75%" /></td>
+      <td><img src="transparentmask2.gif" width="75%" /></td>
     </tr>
   </table>
 </div>
@@ -82,8 +82,8 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 <div style="text-align: center;">
   <table>
     <tr>
-      <td><img src="binarymask2.gif" width="50%" /></td>
-      <td><img src="binarymask1.gif" width="50%" /></td>
+      <td><img src="binarymask2.gif" width="75%" /></td>
+      <td><img src="binarymask1.gif" width="75%" /></td>
     </tr>
   </table>
 </div>
