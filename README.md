@@ -53,34 +53,40 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 - Highlights surgical instruments in distinct colors according to class labels.
 
 **Segmentation Example:**
-<table>
-  <tr>
-    <td><img src="colouredmask1.gif" width="50%" /></td>
-    <td><img src="colouredmask2.gif" width="50%" /></td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="colouredmask1.gif" width="50%" /></td>
+      <td><img src="colouredmask2.gif" width="50%" /></td>
+    </tr>
+  </table>
+</div>
 
 #### 2️⃣ **Colored Transparent Segmentation** 🌀
 - Overlays segmentation on the original frame while keeping transparency.
 
 **Segmentation Example:**
-<table>
-  <tr>
-    <td><img src="transparentmask1.gif" width="50%" /></td>
-    <td><img src="transparentmask2.gif" width="50%" /></td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="transparentmask1.gif" width="50%" /></td>
+      <td><img src="transparentmask2.gif" width="50%" /></td>
+    </tr>
+  </table>
+</div>
 
 #### 3️⃣ **Binary Segmentation Output** ⚫⚪
 - Converts instruments to white and background to black for clarity.
 
 **Segmentation Example:**
-<table>
-  <tr>
-    <td><img src="binarymask2.gif" width="50%" /></td>
-    <td><img src="binarymask1.gif" width="50%" /></td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table>
+    <tr>
+      <td><img src="binarymask2.gif" width="50%" /></td>
+      <td><img src="binarymask1.gif" width="50%" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
