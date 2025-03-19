@@ -45,7 +45,7 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 ## 🖼️ Visual Examples
 
 ### Original Video Frame 🎥
-![Original Frame](original_video.gif)
+![Original Frame](original1.gif)
 
 ### YOLOv8 Segmentation Outputs
 
