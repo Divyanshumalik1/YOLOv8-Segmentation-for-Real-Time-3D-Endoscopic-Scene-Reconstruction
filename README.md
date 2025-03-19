@@ -1,0 +1,2 @@
+# YOLOv8-Segmentation-for-Real-Time-3D-Endoscopic-Scene-Reconstruction
+This project integrates YOLOv8 segmentation into the DynamicSurg3D system for real-time 3D scene reconstruction from surgical video frames. YOLOv8 detects and segments surgical tools, combining them with depth data to create accurate 3D models, improving reconstruction quality and real-time visualization in dynamic environments.
