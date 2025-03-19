@@ -42,7 +42,6 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 - Merge segmentation with depth maps to refine **3D reconstruction**.
 
 ---
-
 ## 🖼️ Visual Examples
 
 ### Original Video Frame 🎥
@@ -54,28 +53,34 @@ Below is the pipeline workflow depicting how the YOLOv8 segmentation integrates 
 - Highlights surgical instruments in distinct colors according to class labels.
 
 **Segmentation Example:**
-![Colored Before](colouredmask1.gif)
-
-**Segmentation Example:**
-![Colored After](colouredmask2.gif)
+<table>
+  <tr>
+    <td><img src="colouredmask1.gif" width="50%" /></td>
+    <td><img src="colouredmask2.gif" width="50%" /></td>
+  </tr>
+</table>
 
 #### 2️⃣ **Colored Transparent Segmentation** 🌀
 - Overlays segmentation on the original frame while keeping transparency.
 
 **Segmentation Example:**
-![Transparent Before](transparentmask1.gif)
-
-**Segmentation Example:**
-![Transparent After](transparentmask2.gif)
+<table>
+  <tr>
+    <td><img src="transparentmask1.gif" width="50%" /></td>
+    <td><img src="transparentmask2.gif" width="50%" /></td>
+  </tr>
+</table>
 
 #### 3️⃣ **Binary Segmentation Output** ⚫⚪
 - Converts instruments to white and background to black for clarity.
 
 **Segmentation Example:**
-![Binary Before](binarymask2.gif)
-
-**Segmentation Example:**
-![Binary After](binarymask1.gif)
+<table>
+  <tr>
+    <td><img src="binarymask2.gif" width="50%" /></td>
+    <td><img src="binarymask1.gif" width="50%" /></td>
+  </tr>
+</table>
 
 ---
 
