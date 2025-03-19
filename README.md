@@ -1,4 +1,4 @@
-# YOLOv8 Segmentation for Real-Time 3D Scene Reconstruction
+# YOLOv8 Segmentation for Real-Time 3D Endoscopic Scene Reconstruction
 
 ## 🎥 Overview
 
