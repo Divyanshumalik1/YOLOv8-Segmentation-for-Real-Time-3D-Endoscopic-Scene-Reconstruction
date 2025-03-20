@@ -1,5 +1,3 @@
-# YOLOv8 Segmentation for Real-Time 3D Endoscopic Scene Reconstruction
-
 ## 🎥 Overview
 
 This section explains the **YOLOv8 segmentation** process used in the **DynamicSurg3D** project. We leverage YOLOv8 to extract relevant features from endoscopic video frames, enabling **real-time semantic segmentation** for **3D scene reconstruction**. This helps in filtering out irrelevant regions and refining the reconstruction process.
